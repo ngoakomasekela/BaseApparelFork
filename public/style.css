@@ -1,0 +1,44 @@
+.containerfluid{
+    padding-bottom: 25%;
+    padding-top: 7%;
+    padding-left: 5%;
+    background-image: url("images/bg-pattern-desktop.svg")
+    
+}
+.containerfluid .logo{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+.containerfluid .base{
+    float: right;
+}
+.container .display-3{
+    line-height: 70px; 
+    text-transform: uppercase;
+}
+.container .text-one{
+    letter-spacing: 10px; 
+    color: rgba(167, 77, 92,0.4);
+}
+.container .text-two{
+    letter-spacing: 10px; 
+    font-weight: 500;
+}
+.container p{
+    width: 440px; 
+    padding: 2% 0%;  
+    color: rgba(167, 77, 92,0.7);
+}
+.container .input-box{
+    border-radius: 15px; 
+    padding-left: 15px; 
+    padding-top: 3px; 
+    padding-bottom: 3px;
+}
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: rgba(167, 77, 92,0.7);
+}
